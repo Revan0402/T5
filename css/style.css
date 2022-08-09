@@ -1,0 +1,54 @@
+body {
+	  margin: 0;
+	  padding: 0;
+}
+
+.main{
+	width: 1366px;
+	height: 100vh;
+	float: left;
+}
+
+.up span {
+	width: 1351px;
+	height: 75px;
+	font-size: 21px;
+	margin-bottom: 10px;
+	padding: 15px 0px 0px 15px;
+	float: left;
+	background: #FAD600;
+}
+.left span{
+	width: 345px;
+	height: 542px;
+	font-size: 21px;
+	padding: 15px 0px 0px 15px;
+	float: left;
+	background: #FAD600;
+}
+.centerdown span1 {
+	width: 478px;
+	height: 442px;
+	font-size: 21px;
+	margin: 0 10px 10px 10px;
+	padding: 15px 0px 0px 15px;
+	float: left;
+	background: #FAD600;
+}
+.centerdown span2 {
+	width: 478px;
+	height: 442px;
+	font-size: 21px;
+	padding: 15px 0px 0px 15px;
+	float: left;
+	background: #FAD600;
+}
+.centerdown span3 {
+	width: 981px;
+	height: 75px;
+	font-size: 21px;
+	padding: 15px 0px 0px 15px;
+	margin-left: 10px;
+	float: left;
+	background: #FAD600;
+}
